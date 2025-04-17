@@ -6,4 +6,4 @@
 
   Why Choose ES Modules for Modern Node Projects?
 
-- ES modules are the standard for JavaScript, offering better compatibility with modern tools, browsers, and features like top-level `await` and improved performance through static imports.
+- ES modules are the standard for JavaScript, offering better compatibility with modern tools, browsers, and features like top-level await and improved performance through static imports.
